@@ -17,3 +17,10 @@ A repository with demos Chatbots and Agents using foundational models for life s
       </td>
      </tr>
 </table>
+
+___
+
+### GMP Assistant
+**Demo in gradio interface**
+
+ <img src="images/demo_bot.png"></p>
