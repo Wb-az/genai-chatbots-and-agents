@@ -23,4 +23,4 @@ ___
 ### GMP Assistant
 **Demo in gradio interface**
 
- <img src="images/demo_bot.png"></p>
+ <img src="images/gradio_bot_demo.png"></p>
